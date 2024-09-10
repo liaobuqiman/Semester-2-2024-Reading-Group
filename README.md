@@ -1,4 +1,4 @@
-# Spring-2-2024 Reading Group
+# Semester2 2024 Reading Group
 
 ## Goals. 
   1. create a strong background required for research in ML Efficiency, vector database, etc
