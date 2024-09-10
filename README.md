@@ -3,7 +3,7 @@
 ## Goals. 
   1. create a strong background required for research in ML Efficiency, vector database, etc
   2. Get acquainted with promising approaches for ML Efficiency
-  3. Formulate new ideas to work on in Fall'23
+  3. Formulate new ideas to work on in Semester2 2024
 
 ## List of readings
 
