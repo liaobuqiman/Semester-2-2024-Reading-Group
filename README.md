@@ -9,7 +9,7 @@
 
 |        **Paper**        | **Read by** | **Presenter** | **Presentation date** |
 |:-----------------------:|:-----------:|:-------------:|:---------------------:|
-| [High Dimensional Spaces](https://www.cs.cmu.edu/~venkatg/teaching/CStheory-infoage/chap1-high-dim-space.pdf) ( [slides] ) |     sample     |  sample |          sample          |
+| [High Dimensional Spaces](https://www.cs.cmu.edu/~venkatg/teaching/CStheory-infoage/chap1-high-dim-space.pdf) ( [slides] ) |     TBA     |  TBA |          TBA          |
 ||||
 ## Themes (Ignore the order of papers)
 
