@@ -10,6 +10,7 @@
 |        **Paper**        | **Read by** | **Presenter** | **Presentation date** |
 |:-----------------------:|:-----------:|:-------------:|:---------------------:|
 | [High Dimensional Spaces](https://www.cs.cmu.edu/~venkatg/teaching/CStheory-infoage/chap1-high-dim-space.pdf) ( [slides] ) |     TBA     |  TBA |                    |
+| [Navigating Spreading-out Graph (NSG)](https://arxiv.org/pdf/1707.00143) |TBA| Jiabao Han | 23 Sep 2024 |
 ||||
 ## Themes (Ignore the order of papers)
 
