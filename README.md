@@ -10,7 +10,7 @@
 |        **Paper**        | **Read by** | **Presenter** | **Presentation date** |
 |:-----------------------:|:-----------:|:-------------:|:---------------------:|
 | [High Dimensional Spaces](https://www.cs.cmu.edu/~venkatg/teaching/CStheory-infoage/chap1-high-dim-space.pdf) ( [slides] ) |     TBA     |  TBA |                    |
-| [Curse of Dimensionality]([https://arxiv.org/pdf/1707.00143](https://graphics.stanford.edu/courses/cs468-06-fall/Papers/06%20indyk%20motwani%20-%20stoc98.pdf)) |TBA| Jiabao Han | 23 Sep 2024 |
+| [Curse of Dimensionality]([https://arxiv.org/pdf/1707.00143](https://graphics.stanford.edu/courses/cs468-06-fall/Papers/06%20indyk%20motwani%20-%20stoc98.pdf) |TBA| Jiabao Han | 23 Sep 2024 |
 ||||
 ## Themes (Ignore the order of papers)
 
