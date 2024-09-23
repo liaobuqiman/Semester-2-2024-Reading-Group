@@ -9,7 +9,7 @@
 
 |        **Paper**        | **Read by** | **Presenter** | **Presentation date** |
 |:-----------------------:|:-----------:|:-------------:|:---------------------:|
-| [High Dimensional Spaces](https://www.cs.cmu.edu/~venkatg/teaching/CStheory-infoage/chap1-high-dim-space.pdf)[Slides]([httpsVWev9SZkkqIbs-iLlEQJukypiTIhEJEfU5igOAI/ed](https://docs.google.com/presentation/d/1SR3UXdEe5lOt92YrFixN9HNsBYloNsoZigLBoe_zlCc/edit#slide=id.pit)| Everyone    |Zhenghui Guo     | 16 Sep 2024  |                    |
+| [High Dimensional Spaces](https://www.cs.cmu.edu/~venkatg/teaching/CStheory-infoage/chap1-high-dim-space.pdf)[Slides](https://docs.google.com/presentation/d/1SR3UXdEe5lOt92YrFixN9HNsBYloNsoZigLBoe_zlCc/edit#slide=id.pit)| Everyone    |Zhenghui Guo     | 16 Sep 2024  |                    |
 | [Curse of Dimensionality](https://graphics.stanford.edu/courses/cs468-06-fall/Papers/06%20indyk%20motwani%20-%20stoc98.pdf) [Blessing of Dimensionality](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2017.0237) |Everyone| Jiabao Han | 23 Sep 2024 |
 ||||
 ## Themes (Ignore the order of papers)
