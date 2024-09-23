@@ -4,6 +4,7 @@
   1. create a strong background required for research in ML Efficiency, vector database, etc
   2. Get acquainted with promising approaches for ML Efficiency
   3. Formulate new ideas to work on in Semester2 2024
+  4. Unanswered questions doc ([doc](https://docs.google.com/document/d/1s6uB4RiqwWBGGfhus_mZL5PyuZ4MBMfg8ceskODAjYA/edit?usp=sharing))
 
 ## List of readings
 
