@@ -29,3 +29,4 @@
 2. [Plot 3D graphs online](https://www.geogebra.org/)
 3. [Plot 2D graphs online](https://www.desmos.com/calculator)
 4. [ANN-Benchmarks](https://ann-benchmarks.com)
+5. [Intelligence at the Edge of Chaos](https://arxiv.org/pdf/2410.02536)
