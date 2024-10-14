@@ -13,7 +13,7 @@
 | [High Dimensional Spaces](https://www.cs.cmu.edu/~venkatg/teaching/CStheory-infoage/chap1-high-dim-space.pdf)| Everyone    |Zhenghui Guo     | 16 Sep 2024  |[Slides](https://docs.google.com/presentation/d/14ODK7HsS7608djWtZiSp2kLlWMxvtFl2WcYxJCr81lY/edit?usp=sharing)|
 | [Curse of Dimensionality](https://graphics.stanford.edu/courses/cs468-06-fall/Papers/06%20indyk%20motwani%20-%20stoc98.pdf) [Blessing of Dimensionality](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2017.0237) |Everyone| Jiabao Han | 23 Sep 2024 |
 | [Generative adversarial nets](https://proceedings.neurips.cc/paper_files/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf) | Everyone | Xinyu Yang | 30 SEP 2024 | 
-|[Towards Efficient Generative Large Language Model Serving:A Survey from Algorithms to Systems](https://arxiv.org/pdf/2312.15234)|
+|[Towards Efficient Generative Large Language Model Serving:A Survey from Algorithms to Systems](https://arxiv.org/pdf/2312.15234)|TBA| Zhenghui Guo | [Slides](https://docs.google.com/presentation/d/1jlWw9QZLhb8PzW49wA8cSqjCp9X0ZkUaoavUnjPeErs/edit#slide=id.g30adb1455a8_0_416)
 ## Themes (Ignore the order of papers)
 
 ## Surveys
