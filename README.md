@@ -16,6 +16,7 @@
 |[Towards Efficient Generative Large Language Model Serving:A Survey from Algorithms to Systems](https://arxiv.org/pdf/2312.15234)|TBA| Zhenghui Guo | 14 OCT 2024 | [Slides](https://docs.google.com/presentation/d/1jlWw9QZLhb8PzW49wA8cSqjCp9X0ZkUaoavUnjPeErs/edit#slide=id.g30adb1455a8_0_416)|
 | [Fast Approximate Nearest Neighbor Search With The Navigating Spreading-out Graph](https://arxiv.org/abs/1707.00143) |Everyone| Jiabao Han | 21 Oct 2024 |
 | [Imagenet-classification-with-deep-convolutional-neural-networks](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) | Everyone | Xinyu Yang | 28 Oct 2024 | [notes](https://anu365-my.sharepoint.com/:b:/g/personal/u7056308_anu_edu_au/Ea-ZVphRQnZAmiyiZ45_pJ4BazfLhj32wifvtvyZTRCSWQ?e=D9DR11) |
+| [Vector Database Management Techniques and Systems](https://dl.acm.org/doi/abs/10.1145/3626246.3654691)| Everyone| Bairu Pan | 3 Nov 2024| [notes](https://drive.google.com/file/d/1WA5drRcJuCEZMIpSPVdGigHMRJMnDDAF/view?usp=drive_link) |
 ## Themes (Ignore the order of papers)
 
 ## Surveys
